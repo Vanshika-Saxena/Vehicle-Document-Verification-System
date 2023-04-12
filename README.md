@@ -27,3 +27,4 @@ purposes, to check if a vehicle is registered or licensed.
 Tkinter for making GUI in Python
 ## Backend
 MySQL database for storing the data of Owners of vehicles.
+## Screenshots
